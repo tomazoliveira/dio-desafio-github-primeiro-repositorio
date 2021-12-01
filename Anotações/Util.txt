@@ -1,0 +1,5 @@
+git clone - clonar repositorio
+git status - saber se tem algum comit
+git add . - para adicionar todos os arquivos
+git commit -m "mensagem" - realiza o commit local
+git push origin branch
